@@ -3,6 +3,9 @@ a.link-button {
   align-items: center;
   justify-content: center;
   color: white;
+  background-color: #000000b3;
+  padding: 10px 20px;
+  border-radius: 50px;
 }
 
 a.link-button .icon {
